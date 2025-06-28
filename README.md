@@ -1,2 +1,2 @@
-**This minimal device tree for generating TWRP for ulefone power armor 18 Ultra **
-jjkjllkjlkjfs
+# device-ulefone-Power_Armor_18_EEA
+betatest Twrp
