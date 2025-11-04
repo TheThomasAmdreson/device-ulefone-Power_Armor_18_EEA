@@ -97,4 +97,4 @@ lunch twrp_Power_Armor_18-eng
 mka bootimage -j$(nproc --all)
 ```
 
-**Repository Views** ![Views](https://profile-counter.glitch.me/twrp_device_ulefone_Power_Armor_18/count.svg)
+**Repository Views** [Views](https://profile-counter.glitch.me/twrp_device_ulefone_Power_Armor_18/count.svg)
